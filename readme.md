@@ -24,7 +24,3 @@ URL : http://localhost/folder-name/public/crud
 </code>
 
 ![My image](github.com/zhiephie/Crud-Laravel/crud.png)
-
-
-![My image](raw.githubusercontent.com/zhiephie/Crud-laravel/crud.png)
-
